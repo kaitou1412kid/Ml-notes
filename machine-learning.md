@@ -62,3 +62,8 @@
 - Input could be anything like email messages, pictures or sensor measurements.
 - Outputs are usually real numbers or labels like "spam", "not_spam", "cat", "dog", etc.
 - In some cases, outputs are vectors like four coordinates of rectangle around a person in picture, sequences like ["adjective", "adjective","noun"] for input "big beautiful car".
+- Classification learning algorithm that builds a model implicitly or explicitly creates a decision boundary.
+- The decision boundary can be straight, or curved, or it can have a complex form, or it can be a superposition of some geometrical figures.
+- The form of decision boundary determines the accuracy of the model.
+- The form is calculated algorithimically or mathematically based on training data, differentiates one learning algorithm from another.
+- Another differentiators: Speed of model building and prediction processing time. 
